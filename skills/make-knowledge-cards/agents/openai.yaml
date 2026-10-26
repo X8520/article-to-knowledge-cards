@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "Turn an article or local Markdown/TXT note into 5-8 concise, review-ready knowledge cards."
+  default_prompt: "Use $make-knowledge-cards to turn the following article into knowledge cards:"
